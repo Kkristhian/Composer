@@ -1,0 +1,14 @@
+{
+    "name": "kristhian/composer",
+    "description": "teste",
+    "type": "project",
+    "require": {
+        "twbs/bootstrap": "^4.1"
+    },
+    "authors": [
+        {
+            "name": "Kkristhian",
+            "email": "kristhianluz@hotmail.com"
+        }
+    ]
+}
